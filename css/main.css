@@ -1,0 +1,48 @@
+/* Main Code */
+
+.main_wrap {
+    width: 100%;
+    max-height: 1578.220px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.play1{
+    width: 50%;
+    height: 50%;
+}
+
+.play1 video {
+    width: 100%;
+    display: block;
+}
+
+.play2{
+    width: 50%;
+    height: 50%;
+}
+
+.play2 video {
+    width: 100%;
+    display: block;
+}
+
+.play3{
+    width: 50%;
+    height: 50%;
+}
+
+.play3 video {
+    width: 100%;
+    display: block;
+}
+
+.play4{
+    width: 50%;
+    height: 50%;
+}
+
+.play4 video {
+    width: 100%;
+    display: block;
+}

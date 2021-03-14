@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "BlackTie_Light";
+    src: url(../font/BlackTie-Light-webfont.woff2)
+    format("woff2")
+}
+
+@font-face {
+    font-family: "BlackTie_Medium";
+    src: url(../font/BlackTie-Medium-webfont.woff2)
+    format("woff2")
+}
+
+@font-face {
+    font-family: "Gotham_Bold";
+    src: url(../font/Gotham-Bold.woff2)
+    format("woff2")
+}
+
+@font-face {
+    font-family: "Gotham_Book";
+    src: url(../font/Gotham-Book.woff2)
+    format("woff2")
+}
+
+@font-face {
+    font-family: "Gotham_Medium";
+    src: url(../font/Gotham-Medium.woff2)
+    format("woff2")
+}
+
+@font-face {
+    font-family: "Gotham_Ultra";
+    src: url(../font/Gotham-Ultra.woff2)
+    format("woff2")
+}
+
+@font-face {
+    font-family: "Simple_Line_Icons";
+    src: url(../font/Simple-Line-Icons.woff2)
+    format("woff2")
+}
+
+@font-face {
+    font-family: "SpoqaHans_Bold";
+    src: url(../font/SpoqaHanSansBold.woff2)
+    format("woff2")
+}
+
+@font-face {
+    font-family: "SpoqaHans_Regular";
+    src: url(../font/SpoqaHanSansRegular.woff2)
+    format("woff2")
+}
+
+
+
+.fs_14 {font-size: 14px;}
+
+.fw_500 { font-weight: 500;}
+
+/* COLOR */
+
+.BC { color: rgb(30, 202, 211);}
